@@ -17,7 +17,7 @@ Uber operations managers often face "Information Overload." With over 100,000 tr
 I built a three-page interactive dashboard system (Overview, Time, and Details) to transform raw trip logs into a strategic command center.
 
 ### 1. Executive Revenue Overview
-![Uber Overview]()
+![Uber Overview](https://github.com/dstar211/uber-data-analysis/blob/main/uber%201.png)
 * **KPIs:** Tracked a healthy **$15.0 average booking amount** across **349K miles** of travel.
 * **Payment Story:** Discovered that **Uber Pay (55%)** is the dominant force, suggesting a highly loyal digital user base compared to cash users (22%).
 
