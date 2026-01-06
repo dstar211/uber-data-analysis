@@ -17,17 +17,17 @@ Uber operations managers often face "Information Overload." With over 100,000 tr
 I built a three-page interactive dashboard system (Overview, Time, and Details) to transform raw trip logs into a strategic command center.
 
 ### 1. Executive Revenue Overview
-![Uber Overview](./uber_1.png)
+![Uber Overview]()
 * **KPIs:** Tracked a healthy **$15.0 average booking amount** across **349K miles** of travel.
 * **Payment Story:** Discovered that **Uber Pay (55%)** is the dominant force, suggesting a highly loyal digital user base compared to cash users (22%).
 
 ### 2. Temporal Intelligence (The "Time" Factor)
-![Uber Time Analysis](./uber_2.png)
+![Uber Time Analysis[]()](https://github.com/dstar211/uber-data-analysis/blob/main/uber%202.png)
 * **The Insight:** While daytime bookings are steady, **Night trips drive 47% ($940K)** of total revenue. 
 * **The "Saturday Peak":** Saturday leads the week with **18.7K bookings**, peaking between 6:00 PM and Midnight.
 
 ### 3. Granular Logistics (The "Details" View)
-![Uber Details](./uber_3.png)
+![Uber Details](https://github.com/dstar211/uber-data-analysis/blob/main/uber%203.png)
 * **Route Analysis:** Identified the farthest trip as a **144.1-mile journey** from the Lower East Side to Crown Heights North.
 * **Hotspots:** **Penn Station/Madison Sq West** remains the high-pressure zone with **4.5K pickups**.
 
